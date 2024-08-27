@@ -1,1 +1,1 @@
-# stock-prediction-analysis
+# StockWise: Predictive Analytics for Market Trends
